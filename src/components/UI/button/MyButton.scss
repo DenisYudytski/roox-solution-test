@@ -1,0 +1,13 @@
+.myButton {
+	color: white;
+	padding: 4px 15px 5px 15px;
+	background: #4B51EF;
+	border-radius: 5px;
+	line-height:14.06px;
+	text-align: center;
+
+}
+.myButton:disabled {
+	cursor: default;
+	background-color: #AFAFAF;
+}
