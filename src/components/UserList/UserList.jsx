@@ -1,6 +1,5 @@
 import React from 'react'
 import { UserCard } from '../UserCard/UserCard'
-import './UserList.scss'
 
 export const UserList = ({ users }) => {
 	return (
